@@ -1,2 +1,2 @@
-# Precourse-Repository
-Precourse repository of Avion School
+# TRIAL 1
+trial on creating repo
